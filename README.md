@@ -61,5 +61,9 @@ Developed by: NADIN KRISHNASAMY B RegisterNumber: 25016795
 **TIMING DIAGRAM FOR IP COUNTER**
 <img width="1009" height="530" alt="Screenshot 2025-12-18 092633" src="https://github.com/user-attachments/assets/480d6edf-e03a-47ec-98a6-638b5ea7848e" />
 
+**TRUTHTABLE**
+<img width="659" height="323" alt="Screenshot 2025-12-18 093047" src="https://github.com/user-attachments/assets/b36a897c-2c80-4d90-aa22-5067178157a8" />
+
+
 **RESULTS**
 Thus, the program executed successfully...
